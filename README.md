@@ -15,10 +15,6 @@ The puzzle starts with some numbers pre-filled, and you must select numbers from
 
 ---
 
-Sure! Here's an updated version of the **How to Play** section with a placeholder for the download link:
-
----
-
 ### How to Play 🎮
 
 1. **Download** the game files [**here**]([#insert-download-link-here](https://www.dropbox.com/scl/fi/7ag3rgx5xz65c7ok9vfzb/Sudoku.zip?rlkey=chzcspsuqmdkmx2gau28whw27&st=oa1qdxwr&dl=0)).
